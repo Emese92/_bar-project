@@ -39,5 +39,5 @@ The live link can be found here: https://emese92.github.io/first-project/
 # Credits
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/v5.15/icons/check-circle?style=solid).
 - The fonts used were taken from [Google Fonts](https://fonts.google.com/)
-- CSS and HTML codes in multiple occasions were inspired by [W3School](https://www.w3schools.com/css/default.asp) and [Love Running project](https://github.com/Emese92/)love-running.git.
+- CSS and HTML codes in multiple occasions were inspired by [W3School](https://www.w3schools.com/css/default.asp) and [Love Running project](https://github.com/Emese92/love-running.git).
 - The photos used on the home and sign up page are from [Pexels](https://www.pexels.com/sv-se/) site.
