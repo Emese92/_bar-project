@@ -11,7 +11,7 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
     - It also has an inviting text with a responsive button that takes you to the reservation section.
     
  * Footer:
-    - Featured in all three pages: Home, Cocktail Menu and Reservation.
+    - Featured in two pages: Home and Cocktail Menu.
     - The footer section includes links to the releveant social media sites. Links are opening in a new tab.
     - The footer is valuable to the user and allow them to see other people feedbacks and encourages them to do the same.
     
@@ -24,13 +24,11 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
 
 ## Testing
 
-
  ### Validator testing
  * CSS: No errors were found when passing through the official [Jigsaw](http://jigsaw.w3.org/css-validator/validator$link) validator
  * HTML: No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Femese92.github.io%2Ffirst-project%2Findex.html)
 
  ### Unfixed Bugs
- * In form.html the containers with the picture and form elements are not fully centered. Therefore it also start to look a bit off when looked at it on a smaller device. Image start to "hide" behind the form element.
  * On the form when choosing a date it is possible to pick past dates. I believe it is required Javacript to fix.
 
 # Deployment

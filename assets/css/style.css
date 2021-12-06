@@ -287,8 +287,8 @@ input[type=submit]:hover {
         left: 15%;
     }
 }
-/* For small screen sizes 800px and down */
-@media screen and (max-width: 800px) {
+/* For small screen sizes 600px and down */
+@media screen and (max-width: 600px) {
     #menu{
         padding-top: 0;
         padding-right: 0;
@@ -322,6 +322,9 @@ input[type=submit]:hover {
         margin-top: 100px;
         left: 0;
 
+    }
+    #book{
+        display: none;
     }
 }
 
