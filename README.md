@@ -34,7 +34,7 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
  * On the form when choosing a date it is possible to pick past dates. I believe it is required Javacript to fix.
 
 # Deployment
-The live link can be found here:
+The live link can be found here: https://emese92.github.io/first-project/
 
 # Credits
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/v5.15/icons/check-circle?style=solid).
