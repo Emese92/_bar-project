@@ -115,7 +115,7 @@ h1, h2, h3{
 #times{
     position: absolute;
     left: 30px;
-    bottom: 30px; 
+    bottom: 70px; 
     z-index: 1;
     background-color: rgba(0, 0, 0, 0.5);
     border: solid 1px black; 
@@ -130,7 +130,7 @@ h1, h2, h3{
 #contact{
     position: absolute;
     right: 30px;
-    bottom: 30px; 
+    bottom: 70px; 
     z-index: 1;
     background-color: rgba(0, 0, 0, 0.5);
     border: solid 1px black; 
@@ -194,21 +194,22 @@ footer{
     padding-bottom: 4%;
  
 }
-.container {
+#container {
     background:rgba(0, 0, 0, .5);
     padding: 20px;
     width: 25%;
-    height: 550px;
+    height: 600px;
     overflow: hidden;
     position: relative;
-    display: inline-block;
-    top: 30px;
-    left: 20%;
+    float: left;
+
+      
 }
 #picture{
     position: relative;
-    padding-left: 75px;
-    padding-top: 60px;
+    height: 640px;
+    overflow: hidden;
+    float: left;
 }
 #make{
     border-bottom: 1px solid rgb(235, 99, 8);
@@ -283,3 +284,6 @@ input[type=submit]:hover {
         width: 50%;
     }
 }
+/* Media queries */
+/* For medium screens sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
