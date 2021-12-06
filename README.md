@@ -26,6 +26,8 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
 
 
  ### Validator testing
+ * CSS: No errors were found when passing through the official [Jigsaw](http://jigsaw.w3.org/css-validator/validator$link) validator
+ * HTML: 
 
  ### Unfixed Bugs
 
