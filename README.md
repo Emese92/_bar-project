@@ -31,6 +31,7 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
 
  ### Unfixed Bugs
  * In form.html the containers with the picture and form elements are not fully centered. Therefore it also start to look a bit off when looked at it on a smaller device. Image start to "hide" behind the form element.
+ * On the form when choosing a date it is possible to pick past dates. I believe it is required Javacript to fix.
 
 # Deployment
 The live link can be found here:

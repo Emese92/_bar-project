@@ -104,7 +104,8 @@ h1, h2, h3{
     transition: 0.3s;
     display: inline-block;
     cursor: pointer;
-    opacity: 0.6;  
+    opacity: 0.6;
+  
 }
 #book:hover {
     opacity: 1;   
@@ -163,7 +164,7 @@ footer{
 #bar-menu{
     color:#3a3a3a;
     text-align: center;
-    margin-top: 8%;
+    padding-top: 8%;
 }
 
 #list{
@@ -171,7 +172,6 @@ footer{
     border-top: solid 2px rgb(235, 99, 8);
     padding: 30px;
     font-size: 200%;
-
 }
 .cocktail{
     padding-bottom: 30px;
@@ -192,7 +192,6 @@ footer{
 #form{
     padding-top: 8%;
     padding-bottom: 4%;
-    margin:2%;
  
 }
 .container {
@@ -210,9 +209,6 @@ footer{
     position: relative;
     padding-left: 75px;
     padding-top: 60px;
-    
-
-
 }
 #make{
     border-bottom: 1px solid rgb(235, 99, 8);
