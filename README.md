@@ -4,7 +4,7 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
 ## Features
    * Navigation Bar: 
         - Featured in all three pages: Home, Cocktail Menu and Reservation.
-        - This section will allow the user to easily navigate from page to page without useing the ‘back’ button.
+        - This section will allow the user to easily navigate from page to page without using the ‘back’ button.
 
     * Hero Image:
         - The landing image on the home page include text overlay with opening times and contact information.
@@ -12,8 +12,8 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
     
     * Footer:
         - Featured in all three pages: Home, Cocktail Menu and Reservation.
-        -The footer section includes links to the releveant social media sites. Links are opening in a new tab.
-        -The footer is valuable to the user and allow them to see other people feedbacks and encourages them to do the same.
+        - The footer section includes links to the releveant social media sites. Links are opening in a new tab.
+        - The footer is valuable to the user and allow them to see other people feedbacks and encourages them to do the same.
     
     * Coktail menu:
         - The menu allows you to see what kind of drinks _bar is offering. It features the ingredients of the cocktails, so the user can easily decide if it is the right place for them.
