@@ -27,7 +27,7 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
 
  ### Validator testing
  * CSS: No errors were found when passing through the official [Jigsaw](http://jigsaw.w3.org/css-validator/validator$link) validator
- * HTML: 
+ * HTML: No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Femese92.github.io%2Ffirst-project%2Findex.html)
 
  ### Unfixed Bugs
  * In form.html the containers with the picture and form elements are not fully centered. Therefore it also start to look a bit off when looked at it on a smaller device. Image start to "hide" behind the form element.
