@@ -250,13 +250,7 @@ input[type=submit]:hover {
 /* Media queries */
 /* For medium screens sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
-    #menu{
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
+
     #list{
         border-top: none;
         padding-top: 100px;
@@ -304,16 +298,13 @@ input[type=submit]:hover {
     #times{
         bottom: 200px;  
         overflow: scroll;
-        scroll-behavior: smooth;
-        height: 100px;
+
+        height: 150px;
     }
     #contact{
         left: 30px; 
         right: auto;
-        display: inline;
-        overflow: scroll;
-        scroll-behavior: smooth;
-        height: 100px;  
+        height: 150px;  
     }
     #picture{
         display: none;
@@ -321,10 +312,7 @@ input[type=submit]:hover {
     #container{
         margin-top: 100px;
         left: 20px;
+    }
 
-    }
-    #book{
-        display: none;
-    }
 }
 

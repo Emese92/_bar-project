@@ -1,6 +1,7 @@
 # _bar
 _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is for the people who would like to go out with their friends and have a nice time in a beautiful location and with a great cocktail. The drinks are delicius, and made with fresh produce by our skilled bartenders.
 
+![Site responsiveness](/assets/images/Untitled.png)
 ## Features
  * Navigation Bar: 
     - Featured in all three pages: Home, Cocktail Menu and Reservation.
@@ -9,6 +10,7 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
  * Hero Image:
     - The landing image on the home page include text overlay with opening times and contact information.
     - It also has an inviting text with a responsive button that takes you to the reservation section.
+    ![Hero Image](/assets/images/hero.png)
     
  * Footer:
     - Featured in two pages: Home and Cocktail Menu.
