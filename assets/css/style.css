@@ -272,18 +272,56 @@ input[type=submit]:hover {
         right: auto;
         bottom: 10px;
     }
-    .container{
-        left: 0;
-        width: 100%;
+    #container{
+        width: 70%;
         margin-bottom: 10px;
+        height: auto;
+        left: 15%;
     }
     #picture{
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 50%;
+        width: 75%;
+        height: auto;
+        left: 15%;
     }
 }
-/* Media queries */
-/* For medium screens sizes from 950px wide and down */
-@media screen and (max-width: 950px) {
+/* For small screen sizes 800px and down */
+@media screen and (max-width: 800px) {
+    #menu{
+        padding-top: 0;
+        padding-right: 0;
+        display: block;
+        width: 200px;
+        text-align: right;  
+        position: absolute; 
+        right: 0%;
+    }
+    #hero-text {
+        padding-top: 70%;
+    }
+    #times{
+        bottom: 100px;  
+        overflow: scroll;
+        scroll-behavior: smooth;
+        height: 40px;
+    }
+    #contact{
+        left: 30px; 
+        right: auto;
+        display: inline;
+        overflow: scroll;
+        scroll-behavior: smooth;
+        height: 40px;  
+    }
+    #picture{
+        display: none;
+    }
+    #container{
+        margin-top: 100px;
+        left: 0;
+
+    }
+}
+
