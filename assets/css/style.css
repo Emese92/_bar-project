@@ -135,8 +135,7 @@ h1, h2, h3{
     background-color: rgba(0, 0, 0, 0.5);
     border: solid 1px black; 
     padding: 20px;
-    width: 250px;
-    
+    width: 250px;   
 }
 #contact li{
     list-style-type: none;
@@ -192,7 +191,6 @@ footer{
 #form{
     padding-top: 8%;
     padding-bottom: 4%;
- 
 }
 #container {
     background:rgba(0, 0, 0, .5);
@@ -202,8 +200,6 @@ footer{
     overflow: hidden;
     position: relative;
     float: left;
-
-      
 }
 #picture{
     position: relative;
@@ -289,7 +285,8 @@ input[type=submit]:hover {
         width: 200px;
         text-align: right;  
         position: absolute; 
-        right: 0%;
+        right: 0;
+        line-height: normal;
     }
     #hero-text {
         padding-top: 70%;
@@ -298,12 +295,13 @@ input[type=submit]:hover {
         display: none;
     }
     #times{
-        bottom: 200px;  
-        height: 80px;
+        bottom: 210px;  
+        height: 100px;
     }
     #contact{
         left: 30px; 
-        height: 100px;  
+        height: 170px;
+        bottom: 0px;   
     }
     #picture{
         display: none;
