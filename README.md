@@ -38,7 +38,7 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
 ## Testing
 
  ### Validator testing
- * CSS: No errors were found when passing through the official [Jigsaw](http://jigsaw.w3.org/css-validator/validator$link) validator
+ * CSS: No errors were found when passing through the official [Jigsaw  validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Femese92.github.io%2Ffirst-project%2Fform.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
  * HTML: No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Femese92.github.io%2Ffirst-project%2Findex.html)
 
  ### Unfixed Bugs
@@ -56,8 +56,8 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
 The live link can be found here: https://emese92.github.io/first-project/
 
 # Credits
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/v5.15/icons/check-circle?style=solid).
+- The icons were taken from [Font Awesome](https://fontawesome.com/v5.15/icons/check-circle?style=solid).
 - The fonts used were taken from [Google Fonts](https://fonts.google.com/).
 - CSS and HTML codes in multiple occasions were inspired by or copied from [W3School](https://www.w3schools.com/css/default.asp) and [Love Running project](https://github.com/Emese92/love-running.git).
-- The photos used on the home and sign up page are from [Pexels](https://www.pexels.com/sv-se/) site.
+- The photos used on the home and sign up page are from [Pexels](https://www.pexels.com/sv-se/).
 - Website for responsiveness photo is from [Am I Responsive](http://ami.responsivedesign.is/#).
