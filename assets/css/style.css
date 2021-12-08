@@ -284,8 +284,7 @@ input[type=submit]:hover {
 /* For small screen sizes 600px and down */
 @media screen and (max-width: 600px) {
     #menu{
-        padding-top: 0;
-        padding-right: 0;
+        padding: 0;
         display: block;
         width: 200px;
         text-align: right;  
@@ -295,16 +294,16 @@ input[type=submit]:hover {
     #hero-text {
         padding-top: 70%;
     }
+    #book{
+        display: none;
+    }
     #times{
         bottom: 200px;  
-        overflow: scroll;
-
-        height: 150px;
+        height: 80px;
     }
     #contact{
         left: 30px; 
-        right: auto;
-        height: 150px;  
+        height: 100px;  
     }
     #picture{
         display: none;
@@ -313,6 +312,5 @@ input[type=submit]:hover {
         margin-top: 100px;
         left: 20px;
     }
-
 }
 
