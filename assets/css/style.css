@@ -36,8 +36,6 @@ h1, h2, h3{
     font-size: 110%;
     letter-spacing: 2px;
     color: #3a3a3a;
-
-
 }
 
 #menu, #logo{
@@ -104,42 +102,49 @@ h1, h2, h3{
     transition: 0.3s;
     display: inline-block;
     cursor: pointer;
-    opacity: 0.6;
+   
   
 }
 #book:hover {
-    opacity: 1;   
+    opacity: 0.6;   
 }
 
 /* times and contact */
+#about{
+    background-color: rgb(54, 50, 47);
+    height: 100px;
+    padding-top: 30px;
+    padding-left: 450px;
+    padding-right: 450px;
+}
 #times{
-    position: absolute;
-    left: 30px;
-    bottom: 70px; 
-    z-index: 1;
-    background-color: rgba(0, 0, 0, 0.5);
-    border: solid 1px black; 
-    padding: 20px;
-    width: 250px;
+    display: inline-flex;
+    padding-right: 60px;
 }
 
 #times li{
     list-style-type: none;
     text-align: left;
+    margin-left: 5px;
 }
 #contact{
-    position: absolute;
-    right: 30px;
-    bottom: 70px; 
-    z-index: 1;
-    background-color: rgba(0, 0, 0, 0.5);
-    border: solid 1px black; 
-    padding: 20px;
-    width: 250px;   
+    display: inline-flex;
+    padding-right: 60px;
 }
 #contact li{
+    list-style-type: none;  
+    text-align: left;
+    margin-left: 5px;
+}
+#address{
+    display: inline-flex;
+    padding-right: 60px;
+}
+#address li{
     list-style-type: none;
-    text-align: center;   
+    text-align: left;
+    margin-left: 5px;
+    
 }
 /* footer */
 
