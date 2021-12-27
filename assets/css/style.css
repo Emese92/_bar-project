@@ -176,27 +176,30 @@ footer{
 
 /*style for form */
 #form{
-    padding-top: 8%;
-    padding-bottom: 4%;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    width: 100%;
+    height: 600px;
+    display: flex;
 }
 #container {
     background:rgba(0, 0, 0, .5);
-    padding: 20px;
-    width: 25%;
+    padding: 0 30px;
+    width: 800px;
     height: 600px;
     overflow: hidden;
-    position: relative;
-    float: left;
+    display: inline-block;
 }
 #picture{
-    position: relative;
-    height: 640px;
+    height: 600px;
     overflow: hidden;
-    float: left;
+    display: inline-block;
+    padding-left: 100px;
 }
 #make{
     border-bottom: 1px solid rgb(235, 99, 8);
     text-align: center;
+    padding-top: 7px;
 }
 input[type=text], [type=tel], [type=number], [type=date], select{
     width: 100%; 
@@ -250,20 +253,6 @@ input[type=submit]:hover {
        padding-bottom: 15px;
        width: 100%;
     }
-    #container{
-        width: 70%;
-        margin-bottom: 10px;
-        height: auto;
-        left: 15%;
-    }
-    #picture{
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 75%;
-        height: auto;
-        left: 15%;
-    }
 
 }
 /* For small screen sizes 600px and down */
@@ -290,6 +279,9 @@ input[type=submit]:hover {
     #container{
         margin-top: 100px;
         left: 20px;
+    }
+    #form{
+        padding-bottom: 100px;
     }
 }
 
