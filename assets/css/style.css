@@ -40,8 +40,6 @@ h1, h2, h3{
 
 #menu, #logo{
     line-height: 75px;
-
-
 }
 #menu li{
     float: right;
@@ -112,9 +110,9 @@ h1, h2, h3{
 /* times contact and address */
 #about{
     background-color: rgb(54, 50, 47);
-    height: 100px;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    height: 70px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     padding-left: 40px;
 }
 #times, #contact, #address{
@@ -181,20 +179,22 @@ footer{
     width: 100%;
     height: 600px;
     display: flex;
+    justify-content: center;
 }
 #container {
     background:rgba(0, 0, 0, .5);
     padding: 0 30px;
-    width: 800px;
+    width: 600px;
     height: 600px;
     overflow: hidden;
     display: inline-block;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 #picture{
     height: 600px;
     overflow: hidden;
     display: inline-block;
-    padding-left: 100px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 #make{
     border-bottom: 1px solid rgb(235, 99, 8);
