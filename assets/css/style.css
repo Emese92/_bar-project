@@ -109,43 +109,25 @@ h1, h2, h3{
     opacity: 0.6;   
 }
 
-/* times and contact */
+/* times contact and address */
 #about{
     background-color: rgb(54, 50, 47);
     height: 100px;
-    padding-top: 30px;
-    padding-left: 450px;
-    padding-right: 450px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
 }
-#times{
+#times, #contact, #address{
     display: inline-flex;
-    padding-right: 60px;
+    padding-right: 30px;
 }
 
-#times li{
+#times li, #contact li, #address li{
     list-style-type: none;
     text-align: left;
     margin-left: 5px;
 }
-#contact{
-    display: inline-flex;
-    padding-right: 60px;
-}
-#contact li{
-    list-style-type: none;  
-    text-align: left;
-    margin-left: 5px;
-}
-#address{
-    display: inline-flex;
-    padding-right: 60px;
-}
-#address li{
-    list-style-type: none;
-    text-align: left;
-    margin-left: 5px;
-    
-}
+
 /* footer */
 
 footer{
@@ -259,13 +241,14 @@ input[type=submit]:hover {
     #hero-text {
         padding-top: 70%;
     }
-    #times{
-        bottom: 250px;  
+    #about{
+        padding: 0;
+        height: 200px;
     }
-    #contact{
-        left: 30px; 
-        right: auto;
-        bottom: 10px;
+    #times, #contact, #address{
+       padding-left: 15px; 
+       padding-bottom: 15px;
+       width: 100%;
     }
     #container{
         width: 70%;
@@ -281,6 +264,7 @@ input[type=submit]:hover {
         height: auto;
         left: 15%;
     }
+
 }
 /* For small screen sizes 600px and down */
 @media screen and (max-width: 600px) {
@@ -299,15 +283,7 @@ input[type=submit]:hover {
     #book{
         display: none;
     }
-    #times{
-        bottom: 210px;  
-        height: 100px;
-    }
-    #contact{
-        left: 30px; 
-        height: 170px;
-        bottom: 0px;   
-    }
+    
     #picture{
         display: none;
     }
