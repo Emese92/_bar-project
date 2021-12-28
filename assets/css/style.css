@@ -1,72 +1,72 @@
-@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Roboto+Condensed:ital,wght@1,300&display=swap');
-*{
+@import url("https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Roboto+Condensed:ital,wght@1,300&display=swap");
+* {
     margin: 0;
     padding: 0;
     border: none;
-
 }
-body, html {
+body,
+html {
     height: 100%;
 }
-body{
-    font-family: 'Didact Gothic', sans-serif;
+body {
+    font-family: "Didact Gothic", sans-serif;
     font-weight: 300;
     color: white;
-
 }
- 
+
 /* headings and logo */
-h1, h2, h3{
-    font-family: 'Roboto Condensed', sans-serif;
+h1,
+h2,
+h3 {
+    font-family: "Roboto Condensed", sans-serif;
     letter-spacing: 2px;
 }
 
-#logo{
+#logo {
     font-weight: bold;
     font-size: 400%;
     float: left;
     margin-left: 30px;
-    color: rgb(235, 99, 8)
-
+    color: rgb(235, 99, 8);
 }
 
 /* navigation links*/
 
-#menu{
+#menu {
     font-size: 110%;
     letter-spacing: 2px;
     color: #3a3a3a;
 }
 
-#menu, #logo{
+#menu,
+#logo {
     line-height: 75px;
 }
-#menu li{
+#menu li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
 }
-#menu a{
+#menu a {
     text-decoration: none;
     color: inherit;
 }
-#menu a:hover{
+#menu a:hover {
     border-bottom: 1px solid rgb(235, 99, 8);
 }
 
-.active{
+.active {
     border-bottom: 1px solid rgb(235, 99, 8);
 }
 /* hero-image */
-#hero-outer{
+#hero-outer {
     height: 100%;
     width: 100%;
     overflow: hidden;
     position: relative;
-
 }
 #hero-image {
-    background: url('../images/pexels-rachel-claire-5865312.jpg') no-repeat center center;
+    background: url("../images/pexels-rachel-claire-5865312.jpg") no-repeat center center;
     height: 100%;
     width: 100%;
     background-size: cover;
@@ -84,15 +84,14 @@ h1, h2, h3{
     letter-spacing: 5px;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, .5);
-
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
-  /* button style */
-#book{
+/* button style */
+#book {
     text-decoration: none;
-    color: white; 
-    border: solid 1px black; 
+    color: white;
+    border: solid 1px black;
     background-color: rgb(235, 99, 8);
     font-size: 16px;
     padding: 16px 32px;
@@ -100,27 +99,29 @@ h1, h2, h3{
     transition: 0.3s;
     display: inline-block;
     cursor: pointer;
-   
-  
 }
 #book:hover {
-    background-color: rgb(204, 87, 9);  
+    background-color: rgb(204, 87, 9);
 }
 
 /* times contact and address */
-#about{
+#about {
     background-color: rgb(54, 50, 47);
     height: 70px;
     padding-top: 20px;
     padding-bottom: 20px;
     padding-left: 40px;
 }
-#times, #contact, #address{
+#times,
+#contact,
+#address {
     display: inline-flex;
     padding-right: 30px;
 }
 
-#times li, #contact li, #address li{
+#times li,
+#contact li,
+#address li {
     list-style-type: none;
     text-align: left;
     margin-left: 5px;
@@ -128,13 +129,13 @@ h1, h2, h3{
 
 /* footer */
 
-footer{
+footer {
     height: 80px;
 }
-.social-networks{
+.social-networks {
     text-align: center;
 }
-.social-networks > li{
+.social-networks > li {
     display: inline;
 }
 .social-networks i {
@@ -145,7 +146,7 @@ footer{
 }
 /*style for coctail menu */
 
-#list{
+#list {
     size: 100px;
     font-size: 3.5rem;
     background-color: rgb(235, 99, 8);
@@ -153,40 +154,40 @@ footer{
     text-align: center;
     margin-top: 100px;
 }
-#bar-menu{
+#bar-menu {
     width: 100%;
     display: flex;
     flex-direction: column;
-    justify-content: center; 
+    justify-content: center;
 }
-.cocktail > img{
+.cocktail > img {
     overflow: hidden;
     width: 100%;
     height: 250px;
     object-fit: cover;
 }
-.cocktail{
+.cocktail {
     width: 350px;
     height: 350px;
-    box-shadow: rgb(99 99 99 / 20%) 0px 2px 8px 0px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
     margin: 20 auto;
 }
-.items{
+.items {
     text-transform: uppercase;
     color: rgb(235, 99, 8);
     margin-top: 5px;
     font-size: 1.5rem;
     text-align: center;
 }
-.ingredients{
-    text-transform: capitalize; 
+.ingredients {
+    text-transform: capitalize;
     font-size: 1rem;
     text-align: center;
     color: #3a3a3a;
 }
 
 /*style for form */
-#form{
+#form {
     padding-top: 100px;
     padding-bottom: 30px;
     width: 100%;
@@ -195,7 +196,7 @@ footer{
     justify-content: center;
 }
 #container {
-    background:rgba(0, 0, 0, .5);
+    background: rgba(0, 0, 0, 0.5);
     padding: 0 30px;
     width: 600px;
     height: 600px;
@@ -203,27 +204,31 @@ footer{
     display: inline-block;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
-#picture{
+#picture {
     height: 600px;
     overflow: hidden;
     display: inline-block;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
-#make{
+#make {
     border-bottom: 1px solid rgb(235, 99, 8);
     text-align: center;
     padding-top: 7px;
 }
-input[type=text], [type=tel], [type=number], [type=date], select{
-    width: 100%; 
-    padding: 12px; 
+input[type="text"],
+[type="tel"],
+[type="number"],
+[type="date"],
+select {
+    width: 100%;
+    padding: 12px;
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
-    margin-top: 6px; 
-    margin-bottom: 16px; 
+    margin-top: 6px;
+    margin-bottom: 16px;
 }
-input[type=submit] {
+input[type="submit"] {
     background-color: rgb(235, 99, 8);
     color: white;
     padding: 12px 20px;
@@ -232,15 +237,15 @@ input[type=submit] {
     cursor: pointer;
     width: 100%;
 }
-input[type=submit]:hover {
+input[type="submit"]:hover {
     background-color: rgb(204, 87, 9);
 }
 /* thank you for your booking style */
-.thanks i{
+.thanks i {
     color: rgb(235, 99, 8);
     font-size: 140%;
 }
-.thanks{
+.thanks {
     color: #3a3a3a;
     margin-top: 50px;
     margin-left: 30px;
@@ -249,52 +254,51 @@ input[type=submit]:hover {
 /* Media queries */
 /* For medium screens sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
-
-    #list{
+    #list {
         border-top: none;
         padding-top: 100px;
     }
     #hero-text {
         padding-top: 70%;
     }
-    #about{
+    #about {
         padding: 0;
         height: 200px;
     }
-    #times, #contact, #address{
-       padding-left: 15px; 
-       padding-bottom: 15px;
-       width: 100%;
+    #times,
+    #contact,
+    #address {
+        padding-left: 15px;
+        padding-bottom: 15px;
+        width: 100%;
     }
-
 }
 /* For small screen sizes 600px and down */
 @media screen and (max-width: 600px) {
-    #menu{
+    #menu {
         padding: 0;
         display: block;
         width: 200px;
-        text-align: right;  
-        position: absolute; 
+        text-align: right;
+        position: absolute;
         right: 0;
         line-height: normal;
     }
     #hero-text {
         padding-top: 70%;
     }
-    #book{
+    #book {
         display: none;
     }
-    
-    #picture{
+
+    #picture {
         display: none;
     }
-    #container{
+    #container {
         margin-top: 100px;
         left: 20px;
     }
-    #form{
+    #form {
         padding-bottom: 100px;
     }
 }
-
