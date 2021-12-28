@@ -1,7 +1,7 @@
 # _bar
 _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is for the people who would like to go out with their friends and have a nice time in a beautiful location and with a great cocktail. The drinks are delicius, and made with fresh produce by our skilled bartenders.
 
-![Site responsiveness](/assets/images/responsive1.png)
+
 
 ## Features
  * Navigation Bar: 
@@ -42,9 +42,13 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
 
 ## Testing
 
+![Site responsiveness](/assets/images/responsive1.png)
+   - The website was tested for different screen sizes and adjusted as needed.
+
  ### Validator testing
  * CSS: No errors were found when passing through the official [Jigsaw  validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Femese92.github.io%2Ffirst-project%2Fform.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
  * HTML: No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Femese92.github.io%2Ffirst-project%2Findex.html)
+
 
  ### Unfixed Bugs
  * On the form when choosing a date it is possible to pick past dates. I believe it is required JavaScript to fix.
@@ -66,10 +70,13 @@ The live link can be found here: https://emese92.github.io/first-project/
 - The photos used on the home and sign up page are from [Pexels](https://www.pexels.com/sv-se/) and the pictures for the cocktail menu are from [Unsplash](https://unsplash.com/).
 - Website for responsiveness photo is from [Am I Responsive](http://ami.responsivedesign.is/#).
 - Box shadows were taken from [CSS Scan](https://getcssscan.com/css-box-shadow-examples).
-- [Css Formatter](https://webformatter.com/css) was used to clean up the code.
 - Thank you for my mentor for reviewing and helping with design and code.
 
-# Text technologies
+# Technologies
+- CSS
+- HTML
 - The fonts used were taken from [Google Fonts](https://fonts.google.com/).
    - Didact Gothic
    - Roboto Condensed
+- [Css Formatter](https://webformatter.com/css) was used to clean up the code.
+- Framework was not used for this project.
