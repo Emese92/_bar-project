@@ -248,23 +248,17 @@ input[type="submit"]:hover {
 }
 
 /* Media queries */
-/* For medium screens sizes from 950px wide and down */
-@media screen and (max-width: 950px) {
-
-
-
-    
-}
 /* For small screen sizes 600px and down */
 @media screen and (max-width: 600px) {
     #menu {
-        padding: 0;
+        padding-top: 20px;
         display: block;
         width: 200px;
         text-align: right;
         position: absolute;
         right: 0;
         line-height: normal;
+        font-size: smaller;
     }
     #hero-text{
         font-size: 1.2rem;
