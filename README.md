@@ -49,6 +49,7 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
  ### Unfixed Bugs
  * On the form when choosing a date it is possible to pick past dates. I believe it is required JavaScript to fix.
  * For the form was used an anchor element for an internal link instead of form action="" method="POST", so the thank-you.html can be seen after filling in the booking fields.
+ * On small screen the menu items show up in a reverse order.
 
 ![thank-you](/assets/images/thankyou.png)
 
