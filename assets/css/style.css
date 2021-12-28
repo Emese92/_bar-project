@@ -24,7 +24,7 @@ h3 {
 
 #logo {
     font-weight: bold;
-    font-size: 400%;
+    font-size: 4rem;
     float: left;
     margin-left: 30px;
     color: rgb(235, 99, 8);
@@ -258,7 +258,7 @@ input[type="submit"]:hover {
         position: absolute;
         right: 0;
         line-height: normal;
-        font-size: smaller;
+        font-size: 1.1rem;
     }
     #hero-text{
         font-size: 1.2rem;
