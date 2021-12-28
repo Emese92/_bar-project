@@ -284,18 +284,9 @@ input[type="submit"]:hover {
     #hero-text {
         padding-top: 70%;
     }
-    #book {
-        display: none;
-    }
 
     #picture {
         display: none;
     }
-    #container {
-        margin-top: 100px;
-        left: 20px;
-    }
-    #form {
-        padding-bottom: 100px;
-    }
+
 }

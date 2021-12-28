@@ -12,7 +12,7 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
 
  * Hero Image:
     - The landing image on the home page include text overlay with opening times and contact information.
-    - It also has an inviting text with a responsive button that takes you to the reservation section (it is not avialable on small screens). 
+    - It also has an inviting text with a responsive button that takes you to the reservation section. 
 
 ![Hero Image](/assets/images/hero-image.png)
     
