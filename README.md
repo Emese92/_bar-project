@@ -20,14 +20,10 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
     - Featured in all three pages: Home, Reservation and Cocktail Menu.
     - The footer section includes links to the releveant social media sites. Links are opening in a new tab.
     - The footer is valuable to the user and allow them to see other people feedbacks and encourages them to do the same.
-
+    - Details:
+       - Contains description about opening times, contact information and address.
 ![Footer](/assets/images/footer.png)
     
- * Details:
-    - Contains description about opening times, contact information and address.
-
-![About](/assets/images/details.png) 
-
  * Coktail menu:
     - The menu allows you to see what kind of drinks _bar is offering. It features the ingredients and pictures of the cocktails, so the user can easily decide if it is the right place for them.
 
