@@ -41,6 +41,7 @@ h3 {
 #menu,
 #logo {
     line-height: 75px;
+    height: 100px;
 }
 #menu li {
     float: right;
@@ -97,7 +98,6 @@ h3 {
     padding: 16px 32px;
     text-align: center;
     transition: 0.3s;
-    width: fit-content;
     cursor: pointer;
  
 }
@@ -119,12 +119,14 @@ h3 {
 }
 .details h3{
     padding-bottom: 10px;
+    color: rgb(204, 87, 9);
 }
 
 /* footer */
 
 footer {
-    height: 80px;
+    height: 100px;
+    background-color: rgb(54, 50, 47);
 }
 .social-networks {
     text-align: center;
@@ -151,8 +153,9 @@ footer {
 #bar-menu {
     width: 100%;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: relative;
 }
 .cocktail > img {
     overflow: hidden;
@@ -165,6 +168,7 @@ footer {
     height: 350px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
     margin: 20px auto;
+   
 }
 .items {
     text-transform: uppercase;
@@ -182,12 +186,11 @@ footer {
 
 /*style for form */
 #form {
-    padding-top: 100px;
-    padding-bottom: 30px;
     width: 100%;
     height: 600px;
     display: flex;
     justify-content: center;
+    min-height: calc(100vh - 160px);
 }
 #container {
     background: rgba(0, 0, 0, 0.5);
@@ -264,10 +267,20 @@ input[type="submit"]:hover {
         right: 0;
         line-height: normal;
     }
-
-
+    #hero-text{
+        font-size: 1.2rem;
+    }
+    #book{
+        font-size: 1rem;
+    }
     #picture {
         display: none;
     }
-
+    #about{
+        flex-direction: column;
+        padding-left: 5px;
+    }
+    .details h3{
+        padding-bottom: 0;
+    }
 }
