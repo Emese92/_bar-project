@@ -31,7 +31,7 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
     
  * Reservation Page:
     - This will allow the user to book a table in _bar.
-    - It asks for: Name, Phone number, Party size, Date, and Time.
+    - It asks for: name, phone number, party size, date, and time.
     - Filling up the reservation form will open a new page with a thank you message on it.
 
 ![Reservation](/assets/images/reserv.png)
