@@ -147,7 +147,7 @@ footer {
 /*style for coctail menu */
 
 #list {
-    resize: 100px;
+    padding: 10px;
     font-size: 3.5rem;
     background-color: rgb(235, 99, 8);
     color: white;
