@@ -22,6 +22,7 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
     - The footer is valuable to the user and allow them to see other people feedbacks and encourages them to do the same.
     - Details:
        - Contains description about opening times, contact information and address.
+
 ![Footer](/assets/images/footer.png)
     
  * Coktail menu:
@@ -40,6 +41,8 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
 
 ![Site responsiveness](/assets/images/responsive1.png)
    - The website was tested for different screen sizes and adjusted as needed.
+   - It was tested on Google Chrome, Microsoft Edge and Internet Exprorer.
+   - Some features does not work on Internet Exprorer.
 
  ### Validator testing
  * CSS: No errors were found when passing through the official [Jigsaw  validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Femese92.github.io%2Ffirst-project%2Fform.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
