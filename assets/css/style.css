@@ -254,10 +254,7 @@ input[type="submit"]:hover {
 /* Media queries */
 /* For medium screens sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
-    #list {
-        border-top: none;
-        padding-top: 100px;
-    }
+
     #hero-text {
         padding-top: 70%;
     }
