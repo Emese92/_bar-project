@@ -260,7 +260,7 @@ input[type="submit"]:hover {
     }
     #about {
         padding: 0;
-        height: 250px;
+        height: 200px;
     }
     #times,
     #contact,
@@ -284,7 +284,9 @@ input[type="submit"]:hover {
     #hero-text {
         padding-top: 70%;
     }
-
+    #about {
+        height: 250px;
+    }
     #picture {
         display: none;
     }
