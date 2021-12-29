@@ -6,11 +6,11 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
 ## User Experience (UX)
 
    #### First Time Visitor Goals
-   * First time visitorse have a clear and understandable layout, with big responsive colored logo on the top left corner and a navigation bar on the top right on every page.
+   * First time visitorse have a clear and understandable layout, with big, responsive, colored logo on the top left corner and a navigation bar on the top right on every page.
    * The visitors are greeted with a welcome message and a clear purpuse of the website.
    * The inviting button on the main page is clear and easy to find for the first time users to reserve a table, but the same feature is also located on the navigation bar.
-   * Information about opening times, location and contact details are easily found on the footer of every page.
-   * The menu is colorful and inviting, including the name and the ingredients of the drinks.
+   * Information about opening times, location and contact details can be easily found on the footer of every page.
+   * The menu is inviting with colorful pictures, including the name and the ingredients of the drinks.
 
 
    #### Returning Visitor Goals
@@ -43,7 +43,7 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
 ![Navigation](/assets/images/navigation.png)
 
  ### Hero Image:
-   * The landing image on the home page include text overlay with opening times and contact information.
+   * The landing image on the home page.
    * It also has an inviting text with a responsive button that takes you to the reservation section. 
 
 ![Hero Image](/assets/images/hero-image.png)
