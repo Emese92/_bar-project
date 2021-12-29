@@ -1,7 +1,7 @@
 # _bar
 _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is for the people who would like to go out with their friends and have a nice time in a beautiful location and with a great cocktail. The drinks are delicious, and made with fresh produce by skilled bartenders.
 
-https://emese92.github.io/first-project/
+https://emese92.github.io/_bar-project/
 
 ![Site responsiveness](/assets/images/responsive1.png)
 
@@ -92,7 +92,7 @@ https://emese92.github.io/first-project/
       - From the source section drop-down menu, select the Master Branch
       - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here: https://emese92.github.io/first-project/
+The live link can be found here: https://emese92.github.io/_bar-project/
 
 ## Credits
 - The icons were taken from [Font Awesome](https://fontawesome.com/v5.15/icons/check-circle?style=solid).
