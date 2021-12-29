@@ -1,6 +1,8 @@
 # _bar
 _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is for the people who would like to go out with their friends and have a nice time in a beautiful location and with a great cocktail. The drinks are delicious, and made with fresh produce by skilled bartenders.
 
+https://emese92.github.io/first-project/
+
 ![Site responsiveness](/assets/images/responsive1.png)
 
 ## User Experience (UX)
@@ -81,8 +83,7 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
 
 
  ### Unfixed Bugs
- * On the form when choosing a date it is possible to pick past dates.
- * On small screen, the menu items show up in reverse order.
+ * On the form when choosing a date it is possible to pick past dates. This requires JavaScript to fix.
  * Some features do not work on Internet Explorer.
 
 ## Deployment
