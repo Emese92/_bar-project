@@ -106,14 +106,14 @@ h3 {
 }
 
 /* times contact and address */
-#info{
+#info {
     background-color: rgb(54, 50, 47);
     padding-top: 20px;
     padding-bottom: 20px;
     justify-content: space-evenly;
     display: flex;
 }
- .details li{
+.details li{
     list-style-type: none;
     text-align: left;
 }
@@ -183,7 +183,7 @@ footer {
 }
 
 /*style for form */
-#reservation {
+#form {
     width: 100%;
     height: 600px;
     display: flex;
