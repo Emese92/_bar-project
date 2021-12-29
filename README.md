@@ -68,7 +68,7 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
    * Filling up the reservation form will open a new page with a thank you message on it.
 
 ![Reservation](/assets/images/reserv.png)
-
+![thank-you](/assets/images/thankyou.png)
 ## Testing
 
    - The website was tested for different screen sizes and adjusted as needed.
@@ -84,9 +84,6 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
  * On the form when choosing a date it is possible to pick past dates.
  * On small screen the menu items show up in a reverse order.
  * Some features does not work on Internet Exprorer.
- * For the form was used an anchor element for an internal link instead of form action="" method="POST", so the thank-you.html can be seen after filling in the booking fields.
-
-![thank-you](/assets/images/thankyou.png)
 
 ## Deployment
    * The site was deployed to GitHub pages. The steps to deploy are as follows:
