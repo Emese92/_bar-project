@@ -1,22 +1,22 @@
 # _bar
-_bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is for the people who would like to go out with their friends and have a nice time in a beautiful location and with a great cocktail. The drinks are delicius, and made with fresh produce by skilled bartenders.
+_bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is for the people who would like to go out with their friends and have a nice time in a beautiful location and with a great cocktail. The drinks are delicious, and made with fresh produce by skilled bartenders.
 
 ![Site responsiveness](/assets/images/responsive1.png)
 
 ## User Experience (UX)
 
    #### First Time Visitor Goals
-   * First time visitorse have a clear and understandable layout, with big, responsive, colored logo on the top left corner and a navigation bar on the top right on every page.
-   * The visitors are greeted with a welcome message and a clear purpuse of the website.
-   * The inviting button on the main page is clear and easy to find for the first time users to reserve a table, but the same feature is also located on the navigation bar.
-   * Information about opening times, location and contact details can be easily found on the footer of every page.
+   * First-time visitors has a clear and understandable layout, with big, responsive, colored logo on the top left corner and a navigation bar on the top right on every page.
+   * The visitors are greeted with a welcome message and a clear purpose of the website.
+   * The inviting button on the main page is clear and easy to find for first-time users to reserve a table, but the same feature is also located on the navigation bar.
+   * Information about opening times, location, and contact details can be easily found on the footer of every page.
    * The menu is inviting with colorful pictures, including the name and the ingredients of the drinks.
 
 
    #### Returning Visitor Goals
-   * Social media buttons are located on the footer of every page. Links to Instagram, Facebook and Twitter. The links will open up in a new tab.
+   * Social media buttons are located on the footer of every page. Links to Instagram, Facebook, and Twitter. The links will open up in a new tab.
    * Easy and quick booking possibility.
-   * Easy to find opening times, location and contact information.
+   * Easy to find opening times, location, and contact information.
 
    #### Site owners Goals
    * Promote the bar
@@ -29,7 +29,7 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
    * The main colors used on the website are gray and orange.
 
    #### Typography
-   * Didact Gothic and Roboto Condensed was used on the website with Sans Serif as the fallback font.
+   * Didact Gothic and Roboto Condensed were used on the website with Sans Serif as the fallback font.
 
    #### Imagery
    * A large, background hero image is used on the home page to keep the site clean and modern. It has a translucent cover to make the text more readable.
@@ -37,7 +37,7 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
 
 ## Features
  ### Navigation Bar: 
-   * Featured in all three pages: Home, Cocktail Menu and Reservation.
+   * Featured in all three pages: Home, Cocktail Menu, and Reservation.
    * This section will allow the user to easily navigate from page to page without using the ‘back’ button.
 
 ![Navigation](/assets/images/navigation.png)
@@ -49,15 +49,15 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
 ![Hero Image](/assets/images/hero-image.png)
     
  ### Footer:
-   * Featured in all three pages: Home, Reservation and Cocktail Menu.
-   * The footer section includes links to the releveant social media sites. Links are opening in a new tab.
-   * The footer is valuable to the user and allow them to see other people feedbacks and encourages them to do the same.
+   * Featured in all three pages: Home, Reservation, and Cocktail Menu.
+   * The footer section includes links to the relevant social media sites. Links are opening in a new tab.
+   * The footer is valuable to the user and allows them to see other people`s feedbacks and encourages them to do the same.
    * Details:
-       * Contains description about opening times, contact information and address.
+       * Contains description about opening times, contact information, and address.
 
 ![Footer](/assets/images/footer.png)
     
- ### Coktail menu:
+ ### Cocktail menu:
    * The menu allows you to see what kind of drinks _bar is offering. It features the ingredients and pictures of the cocktails, so the user can easily decide if it is the right place for them.
 
 ![Coktail menu](/assets/images/cocktail.png)
@@ -72,8 +72,8 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
 ## Testing
 
    - The website was tested for different screen sizes and adjusted as needed.
-   - It was tested on Google Chrome, Microsoft Edge and Internet Exprorer.
-   - Some features does not work on Internet Exprorer.
+   - It was tested on Google Chrome, Microsoft Edge, and Internet Explorer.
+   - Some features do not work on Internet Explorer.
 
  ### Validator testing
  * CSS: No errors were found when passing through the official [Jigsaw  validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Femese92.github.io%2Ffirst-project%2Fform.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
@@ -82,8 +82,8 @@ _bar is a cocktail bar`s website. This bar is located in Sweden, Lagan and it is
 
  ### Unfixed Bugs
  * On the form when choosing a date it is possible to pick past dates.
- * On small screen the menu items show up in a reverse order.
- * Some features does not work on Internet Exprorer.
+ * On small screen, the menu items show up in reverse order.
+ * Some features do not work on Internet Explorer.
 
 ## Deployment
    * The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -95,13 +95,14 @@ The live link can be found here: https://emese92.github.io/first-project/
 
 ## Credits
 - The icons were taken from [Font Awesome](https://fontawesome.com/v5.15/icons/check-circle?style=solid).
-- CSS and HTML codes in multiple occasions were inspired by, or copied from [W3School](https://www.w3schools.com/css/default.asp) and [Love Running project](https://github.com/Emese92/love-running.git).
-- The photos used on the home and sign up page are from [Pexels](https://www.pexels.com/sv-se/) and the pictures for the cocktail menu are from [Unsplash](https://unsplash.com/).
-- Website for responsiveness photo is from [Am I Responsive](http://ami.responsivedesign.is/#).
+- CSS and HTML codes on multiple occasions were inspired by or copied from [W3School](https://www.w3schools.com/css/default.asp) and [Love Running project](https://github.com/Emese92/love-running.git).
+- The photos used on the home and reservation page are from [Pexels](https://www.pexels.com/sv-se/) and the pictures for the cocktail menu are from [Unsplash](https://unsplash.com/).
+- The website for responsiveness photo is from [Am I Responsive](http://ami.responsivedesign.is/#).
 - Box shadows were taken from [CSS Scan](https://getcssscan.com/css-box-shadow-examples).
-- Thank you for my mentor for reviewing and helping with design and code.
+- Thank you for my mentor to reviewing and helping with design and code.
 
 ## Technologies
+
  ### Languages
    - CSS3
    - HTML5
@@ -110,7 +111,7 @@ The live link can be found here: https://emese92.github.io/first-project/
    - [Font Awesome](https://fontawesome.com/v5.15/icons/check-circle?style=solid)
    - [Google Fonts](https://fonts.google.com/): Didact Gothic and Roboto Condensed
    - No Framework was used for this project.
-   - [Css Formatter](https://webformatter.com/css) was used to clean up the code.
+   - [CSS Formatter](https://webformatter.com/css) was used to clean up the code.
    - [Gitpod](https://gitpod.io/projects)
    - Paint
 
